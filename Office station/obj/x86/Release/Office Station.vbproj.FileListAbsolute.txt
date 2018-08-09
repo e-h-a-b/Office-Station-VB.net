@@ -1,0 +1,20 @@
+A:\stop wifi\استطلاع راي\Office Station\Office Station\bin\Release\Office Station.exe
+A:\stop wifi\استطلاع راي\Office Station\Office Station\bin\Release\Office Station.pdb
+A:\stop wifi\استطلاع راي\Office Station\Office Station\bin\Release\Office Station.xml
+A:\stop wifi\استطلاع راي\Office Station\Office Station\bin\Release\ar\Office Station.resources.dll
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form1.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form2.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form3.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form4.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form5.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form6.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Resources.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form1.ar.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form2.ar.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form3.ar.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\WindowsApplication1.Form4.ar.resources
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\Office Station.vbproj.GenerateResource.Cache
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\ar\Office Station.resources.dll
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\Office Station.exe
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\Office Station.xml
+A:\stop wifi\استطلاع راي\Office Station\Office Station\obj\x86\Release\Office Station.pdb
